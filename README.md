@@ -29,7 +29,6 @@ Average Precision (AP)
 |----------|----------|
 | Validation AP | 0.4785 |
 | Public Leaderboard | 0.48414 |
-| Rank | 6 |
 
 ## Key Features
 - home_away
