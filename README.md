@@ -2,7 +2,7 @@
 
 ## Team Members
 - Harshit Kapoor
-- Mahatva
+- Mahatva Trivedi
 
 ## Competition
 OFFSIDE Datathon 2026 conducted by IEEE CS MUJ.
